@@ -1,4 +1,4 @@
-# Sustainability_Week1
+# SUSTAINABILITY_WEEK1
 
 # AI-based Waste Classification System
 
