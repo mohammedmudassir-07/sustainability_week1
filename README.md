@@ -18,8 +18,8 @@ To support sustainable waste management through AI-driven classification of wast
 - Dataset: Kaggle (Waste Classification Data)
 
 ## Dataset Link
-https://www.kaggle.com/datasets/techsash/waste-classification-data
-
+[https://www.kaggle.com/datasets/techsash/waste-classification-data
+](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2)
 ## Week 1 Work Summary
 - Selected domain: Sustainability
 - Finalized Problem Statement
